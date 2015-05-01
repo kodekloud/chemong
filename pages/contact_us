@@ -72,6 +72,11 @@
                     <p class="directory_content">{{name}}</p>
                     <p class="directory_content">{{address1}}</p>
                     <p class="directory_content">{{city}}, {{province_state}} {{postal_code}}</p>
+                     <br>
+                    <p class="directory_content"><strong>Jeff Gracey</strong> 
+                    <br>Senior Property Manager
+                    <br>(416) 236-7244
+                    <br><a href="mailto:jgracey@bentallkennedy.com">jgracey@bentallkennedy.com</a></p>
                 </script>
             </div>
             
